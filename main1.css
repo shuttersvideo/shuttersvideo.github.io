@@ -1,0 +1,190 @@
+body {
+	background-image:url("images1/crossword.png");	
+}
+
+.header {
+	margin:30px 0px 20px 0px;
+	color:#511072;
+	font-family: "Perpetua", sans-serif;
+	text-align:center;
+	text-shadow:.5px .5px #3c0049;
+	font-size: 40px;
+	letter-spacing: 10px;
+	word-spacing: 6px;
+}
+
+
+
+#centeredmenu {
+	margin:10px 50px 0px 10px;
+	float:left;
+	width:100%;
+	overflow:hidden;
+	position:relative;
+
+}
+
+#centeredmenu ul {
+   clear:left;
+   float:left;
+   list-style:none;
+   margin:0;
+   padding:0;
+   position:relative;
+   left:50%;
+   text-align:center;
+
+}
+
+#centeredmenu ul li {
+   display:block;
+   float:left;
+   list-style-type: none;
+   margin:30px;
+   margin-top:5px;
+   margin-bottom:5px;
+   padding-bottom: 5px;
+   position:relative;
+   right:50%;
+   font-size:20px;
+   font-weight: bold;
+}
+
+#centeredmenu ul li a {
+   display: block;
+   margin:0 0 0 1px;
+   padding:3px 10px; 
+   color:#000;
+   text-decoration:none;
+   line-height:4em;
+   list-style:none;
+   font-family: "Perpetua", serif;
+   color:#6c3687;
+   
+}
+
+
+#centeredmenu ul li a:hover {
+   color:#75ad7f;
+   list-style-type:none;
+   -webkit-transition: all .1s ease-in;
+	-moz-transition: all .1s ease-in;
+	-o-transition: all .1s ease-in;
+	transition: all .1s ease-in;
+}
+
+
+#centeredmenu ul li a.active
+ {
+   color:#75ad7f;
+   list-style-type:none;
+}
+
+
+#cicada {
+	margin:0 auto;
+	display: block;
+	width:50%;
+}
+
+
+#videos {
+	max-width: 100%;
+    height: auto;
+	text-align:center;
+	color:#520f63;
+	font-family: "Perpetua", serif;
+	font-size:18px;
+	font-weight: bold
+	padding:0px 30px 10px 0px;
+}
+
+iframe {
+	margin:30px;
+	margin-top:10px;
+	margin-bottom:45px;
+}
+
+.photo {
+	width:170px;
+	height:110px;
+}
+
+
+#emails {
+	font-family: "Perpetua", serif;
+	color:#75ad7f;
+	font-size: 17px;
+	text-align:center;
+
+}
+
+th {
+	color:#520f63;
+	font-family: "Perpetua", serif;
+	font-size:30px;
+	padding:20px;
+
+}
+
+td {
+	font-family: "Perpetua", serif;
+	color:#75ad7f;
+	font-size: 20px;
+	text-align:center;
+	padding:25px;
+}
+
+td a {
+	margin: 2px;
+	border: 4px solid transparent;
+	-webkit-border-radius: 10px;
+	border-radius:10px;
+	opacity:1;
+	-webkit-transition: all .3s ease-in;
+	-moz-transition: all .3s ease-in;
+	-o-transition: all .3s ease-in;
+	transition: all .3s ease-in;
+}
+
+td a:hover {
+	opacity:.7;
+}
+
+table {
+	margin:0 auto;
+	width:90%;
+}
+
+.copyright {
+	font-family: "Perpetua", serif;
+	color:#75ad7f;
+	font-size: 17px;
+	text-align:center;
+}
+
+#contactpic {
+	margin:0 auto;
+	display: block;
+	width:40%;
+}
+
+#contactfun {
+	float:left;
+	font-family: "Perpetua", serif;
+	color:#75ad7f;
+	font-size: 17px;
+}
+
+.quote {
+	font-family: "Perpetua", serif;
+	color:#75ad7f;
+	font-size: 17px;
+	text-align:center;
+	padding-bottom:35px;
+}
+
+
+
+
+
